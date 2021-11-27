@@ -14,9 +14,9 @@ Github Workshop
 
 |s.no|name|branch|roll-number|
 |----|----|------|-----------|
-|1|ameerl|cse|20a91a05i5|
-|1|ameerl|cse|20a91a05i5|
-|1|ameerl|cse|20a91a05i5|
+|1|ameer|cse|20a91a05i5|
+|1|ameer|cse|20a91a05i5|
+|1|ameer|cse|20a91a05i5|
 
 
 
