@@ -48,6 +48,6 @@ Github Workshop
     j=20
     n=30
     if a%2==0
-   print(a+b+c)
+   print(v+j+n)
 ```
 ## *SUKHIBHAVA*
